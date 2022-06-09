@@ -1,5 +1,12 @@
+gunicorn
 dash
-plotly
+dash-core-components
+dash-html-components
+dash_renderer
+dash-daq
+dash-bootstrap-components
+numpy
 pandas
-dash_bootstrap_components
-Flask==2.1.1
+plotly
+requests
+Flask
